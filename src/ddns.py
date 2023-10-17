@@ -110,7 +110,7 @@ class Sample:
         queries['RecordId'] = '779563011516779520'
         queries['RR'] = '@'
         queries['Type'] = 'A'
-        queries['Value'] = '180.164.92.75'
+        queries['Value'] = get_ip()
         queries['TTL'] = 600
         # runtime options
         runtime = util_models.RuntimeOptions()

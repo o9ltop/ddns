@@ -29,6 +29,8 @@ export ALIBABA_CLOUD_ACCESS_KEY_SECRET=YOU_KEY
 
 </details>
 
+Get your RecordId from AliCloud
+
 # run
 ~~~
 python src/ddns.py
